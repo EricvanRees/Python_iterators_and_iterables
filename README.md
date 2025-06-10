@@ -1,1 +1,5 @@
-# Python_iterators_and_iterables
+# Python Tutorial: Iterators and Iterables - What Are They and How Do They Work?
+
+Video description: "In this Python Programming Tutorial, we will be learning about iterators and iterables. There is a lot of confusion around these terms and exactly what they mean. We're also going to learn how to make an object ourselves that is both an iterable and an iterator. This video isn't only about understanding these definitions. It's also about understanding the concepts of iterators so that you can write better code. Understanding these underlying concepts is going to help you write code that is more efficient and will also help you see solutions to certain problems in a way you might not have thought of before. So with that said, let's get started..."
+
+(Video link)[https://www.youtube.com/watch?v=jTYiNjvnHZY]
