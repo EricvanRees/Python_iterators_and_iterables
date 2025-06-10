@@ -22,5 +22,9 @@ class MyRange:
   
 nums = MyRange(1, 10)
 
+# get the values one at a time
 print(next(nums))
 
+# print all values at once in a for loop:
+for num in nums:
+  print(num)
